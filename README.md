@@ -1,3 +1,16 @@
+# KÖNSBYTAREN
+
+Addon till webbläsaren Google Chrome som byter könsspecifika pronomen och en del andra ord när du surfar på webben.
+
+Den lägger även till en knapp i din menyrad för att enkelt slå av och på funktionen.
+
+***
+
+Om du bara vill använda tillägget kan du installera det från:
+https://chrome.google.com/webstore/detail/k%C3%B6nsbytaren/fkigdklmkcpebkjodbhpanacbkobgkcd
+
+
+
 # DON'T BE A DICK PUBLIC LICENSE
 
 As developers we all want to protect our code from dicks that try to steal, sell, infringe or just generally rip us off. For this we have licenses like GPL, MIT, etc.
