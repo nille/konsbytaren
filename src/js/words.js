@@ -1,4 +1,8 @@
  var blokkmatches = {
+	'kronprinsessa': 'kronprins',
+	'kronprinsessan': 'kronprinsen',
+	'kronprinsessans': 'kronprinsens',
+	'hertigen': 'hertiginnan',
 	'drottning': 'kung',
 	'drottningen': 'kungen',
 	'drottningens': 'kungens',
