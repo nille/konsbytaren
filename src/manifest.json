@@ -4,7 +4,7 @@
       "matches": [ "http://*/*", "https://*/*"  ]
    } ],
    "content_security_policy": "script-src 'self'; object-src 'self'",
-   "description": "Ett tillägg som vänder upp och ner på könsrollerna på webben. Han blir hon, hon blir han och så vidare. Går att enkelt slå av & på med en knapp.", 
+   "description": "Ett tillägg som vänder upp och ner på könsrollerna på webben. Han blir hon, hon blir han och så vidare.", 
    "manifest_version": 2,
   "icons": { "16": "icon16.png",
              "48": "icon48.png",
